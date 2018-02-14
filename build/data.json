@@ -1,0 +1,70 @@
+{
+  "categories": [
+    {
+      "title": "HTML",
+      "items": [
+        {"title": "HTML5 Doctor - Let’s Talk about Semantics ", "link": "http://html5doctor.com/lets-talk-about-semantics/"},
+        {"title": "HTMl5 Doctor", "link": "http://html5doctor.com/"},
+        {"title": "Interneting is hard - Semantic HTML", "link": "https://internetingishard.com/html-and-css/semantic-html/"},
+        {"title": "MDN - HTML basics", "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML"},
+        {"title": "HTML Dog - HTML Beginner Tutorial", "link": "http://htmldog.com/guides/html/beginner/"},
+        {"title": "Comandeer Blog", "link": "https://www.comandeer.pl/"}
+      ]
+    },
+    {
+      "title": "CSS and Sass",
+      "items": [
+        {"title": "Official Sass Basics", "link": "http://sass-lang.com/guide"},
+        {"title": "The Sass Way - Guides and Tutorials", "link": "http://thesassway.com/guides"},
+        {"title": "Medium - [Sass] For Beginners", "link": "https://medium.com/@ricardozea/sass-for-beginners-the-friendliest-guide-about-how-to-install-use-sass-on-windows-22ff4a32c1f7"},
+        {"title": "MDN - CSS Tutorial", "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS"},
+        {"title": "CSS Tricks - Build a Style Guide Straight from Sass ", "link": "https://css-tricks.com/build-style-guide-straight-sass/"},
+        {"title": "Learn CSS Layout", "link": "http://learnlayout.com/"}
+      ]
+    },
+    {
+      "title": "Flexbox",
+      "items": [
+        {"title": "CSS Tricks - A Complete Guide to Flexbox", "link": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"},
+        {"title": "Interneting is hard - Flexbox", "link": "https://internetingishard.com/html-and-css/flexbox/"},
+        {"title": "Flexbox Froggy", "link": "http://flexboxfroggy.com/"},
+        {"title": "MDN - Flexbox tutorial", "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox"},
+        {"title": "Flexbox Tips and Tricks", "link": "https://guide.freecodecamp.org/css/tutorials/css-flexbox-tips-and-tricks/"},
+        {"title": "A Visual Guide to CSS3 Flexbox Properties", "link": "https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties"}
+      ]
+    },
+    {
+      "title": "CSS Grid",
+      "items": [
+        {"title": "Wes Bos Grid course", "link": "https://cssgrid.io/"},
+        {"title": "CSS Tricks - A Complete Guide to Grid", "link": "https://css-tricks.com/snippets/css/complete-guide-grid/"},
+        {"title": "CSS Tricks - Things I’ve Learned About CSS Grid", "link": "https://css-tricks.com/things-ive-learned-css-grid-layout/"},
+        {"title": "MDN - CSS Grid Layout", "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout"},
+        {"title": "CSS Grid Playground", "link": "https://michalgrochowski.github.io/grid-playground/dist/"},
+        {"title": "Nice list of know Grid bugs", "link": "https://github.com/rachelandrew/gridbugs"}
+      ]
+    },
+    {
+      "title": "JavaScript",
+      "items": [
+        {"title": "The Modern JavaScript Tutorial", "link": "https://javascript.info/"},
+        {"title": "MDN - JavaScript Basics", "link": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics"},
+        {"title": "HTML Dog - JavaScript Tutorials", "link": "http://www.htmldog.com/guides/javascript/"},
+        {"title": "Medium - How to Learn ES6", "link": "https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620"},
+        {"title": "ECMAScript 6 Learning", "link": "https://github.com/ericdouglas/ES6-Learning"},
+        {"title": "Beginners ES6 and Babel Tutorial", "link": "https://html5hive.org/es6-and-babel-tutorial/"}
+      ]
+    },
+    {
+      "title": "React",
+      "items": [
+        {"title": "Tutorial: Intro To React", "link": "https://reactjs.org/tutorial/tutorial.html"},
+        {"title": "Using React in VS Code", "link": "https://code.visualstudio.com/docs/nodejs/reactjs-tutorial"},
+        {"title": "React Native - Learn the Basics", "link": "https://facebook.github.io/react-native/docs/tutorial.html"},
+        {"title": "Create React App", "link": "https://github.com/facebook/create-react-app"},
+        {"title": "A Basic React + Redux introductory tutorial", "link": "https://hackernoon.com/a-basic-react-redux-introductory-tutorial-adcc681eeb5e"},
+        {"title": "Beginner’s guide to react/redux", "link": "https://medium.com/netscape/beginners-guide-to-react-redux-how-to-start-learning-and-not-be-overwhelmed-af04353101e"}
+      ]
+    }
+  ]
+}
