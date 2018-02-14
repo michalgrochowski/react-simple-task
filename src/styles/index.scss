@@ -20,6 +20,7 @@ body {
 .App {
   @include flex-center-column;
   width: 1140px;
+  height: 100%;
   @include mq-max(1200px) {
     width: 90%;
   }
@@ -30,6 +31,7 @@ body {
   justify-content: space-between;
   flex-wrap: wrap;
   width: 100%;
+  flex-grow: 1;
   margin-bottom: 30px;
 }
 
