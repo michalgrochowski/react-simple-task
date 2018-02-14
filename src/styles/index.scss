@@ -1,0 +1,45 @@
+@import "mixins.scss";
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+  min-height: 100vh;
+  max-width: 100vw;
+  @include flex-center-column;
+}
+
+.root {
+  width: 100%;
+  height: 100%;
+  @include flex-center-column;
+}
+
+.App {
+  @include flex-center-column;
+  width: 1140px;
+  @include mq-max(1200px) {
+    width: 90%;
+  }
+}
+
+.main {
+  @include flex-center-row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.main__loading {
+ text-align: center;
+ font-size: 27px;
+ margin: 0 auto;
+}
+
+@import "main-header.scss";
+@import "category-box.scss";
+@import "main-footer.scss";
+@import "animations.scss";

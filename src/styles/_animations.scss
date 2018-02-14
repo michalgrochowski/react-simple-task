@@ -1,0 +1,12 @@
+.show {
+  animation: show 0.7s ease-in;
+}
+
+@keyframes show {
+  0% {
+    opacity: 0.01;
+  }
+  100% {
+    opacity: 1;
+  }
+}
